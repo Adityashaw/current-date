@@ -1,5 +1,9 @@
 # CurrentDate
 
+### This is a simple App to display current date and time.
+
+#### Note: No unit test has been created.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
 ## Development server
